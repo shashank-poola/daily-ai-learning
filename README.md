@@ -5,3 +5,5 @@ Dynamic-context-discovery by cursor - https://cursor.com/blog/dynamic-context-di
 Vector database - https://qdrant.tech/blog/comparing-qdrant-vs-pinecone-vector-databases/
 
 Memory Is All You Need - https://aifunctor.com/functor-blog/posts/understanding-memory-rag-systems.html
+
+Production RAG - https://youtu.be/uZ56v9xfcBw?si=xiIHowXOAAjB-1Ln
