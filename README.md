@@ -7,3 +7,5 @@ Vector database - https://qdrant.tech/blog/comparing-qdrant-vs-pinecone-vector-d
 Memory Is All You Need - https://aifunctor.com/functor-blog/posts/understanding-memory-rag-systems.html
 
 Production RAG - https://youtu.be/uZ56v9xfcBw?si=xiIHowXOAAjB-1Ln
+
+Building multi agent research system by anthropic(good read) = https://www.anthropic.com/engineering/multi-agent-research-system
