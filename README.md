@@ -9,3 +9,5 @@ Memory Is All You Need - https://aifunctor.com/functor-blog/posts/understanding-
 Production RAG - https://youtu.be/uZ56v9xfcBw?si=xiIHowXOAAjB-1Ln
 
 Building multi agent research system by anthropic(good read) = https://www.anthropic.com/engineering/multi-agent-research-system
+
+Binary quantization(Qdrant) - https://qdrant.tech/articles/binary-quantization/
