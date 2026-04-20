@@ -13,3 +13,5 @@ Building multi agent research system by anthropic(good read) = https://www.anthr
 Binary quantization(Qdrant) - https://qdrant.tech/articles/binary-quantization/
 
 multi agent system - https://www.youtube.com/watch?v=Mi5wOpAgixw&t=740s
+
+AI 2027 (Daniel Kokotajlo) - https://ai-2027.com/ 
