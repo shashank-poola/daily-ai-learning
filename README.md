@@ -15,3 +15,5 @@ Binary quantization(Qdrant) - https://qdrant.tech/articles/binary-quantization/
 multi agent system - https://www.youtube.com/watch?v=Mi5wOpAgixw&t=740s
 
 AI 2027 (Daniel Kokotajlo) - https://ai-2027.com/ 
+
+Embeddings by huggingface - https://huggingface.co/spaces/hesamation/primer-llm-embedding?section=what_are_embeddings?
