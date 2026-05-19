@@ -19,3 +19,5 @@ AI 2027 (Daniel Kokotajlo) - https://ai-2027.com/
 Embeddings by huggingface - https://huggingface.co/spaces/hesamation/primer-llm-embedding?section=what_are_embeddings?
 
 Choosing embedding model - https://www.pinecone.io/learn/series/rag/embedding-models-rundown/
+
+Prompting - https://www.promptingguide.ai/
