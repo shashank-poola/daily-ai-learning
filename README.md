@@ -21,3 +21,5 @@ Embeddings by huggingface - https://huggingface.co/spaces/hesamation/primer-llm-
 Choosing embedding model - https://www.pinecone.io/learn/series/rag/embedding-models-rundown/
 
 Prompting - https://www.promptingguide.ai/
+
+chunking strategies - https://www.pinecone.io/learn/chunking-strategies/
