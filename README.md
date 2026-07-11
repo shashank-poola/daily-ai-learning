@@ -23,3 +23,5 @@ Choosing embedding model - https://www.pinecone.io/learn/series/rag/embedding-mo
 Prompting - https://www.promptingguide.ai/
 
 chunking strategies - https://www.pinecone.io/learn/chunking-strategies/
+
+llm inference testing - https://www.patronus.ai/llm-testing
